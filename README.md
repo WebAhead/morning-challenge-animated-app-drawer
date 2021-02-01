@@ -30,5 +30,5 @@ transform: scale | translate | rotate
   ](https://css-tricks.com/almanac/properties/t/transition/) any css transformation so the effect isn't
   instantaneous
 
-* My solution is on the `solution branch` please do not check this till the
+* Solution is on the `solution branch` please do not check this till the
   end of the workshop.
